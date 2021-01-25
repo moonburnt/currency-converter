@@ -4,8 +4,7 @@
 
 ## How to run:
 
-1. Set service's address and port in settings.ini
-1.5. Optionally run tests.py to check if configuration is correct. It should pass the first test, then fail
+1. Set service's address and port in settings.ini. Optionally run tests.py to check if configuration is correct. It should pass the first test, then fail
 2. Launch server.py: python ./server.py
 3. Run tests.py to check if everything works
 
