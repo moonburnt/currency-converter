@@ -1,8 +1,8 @@
 *I did this for job interview. Failed, but it was fun. Got permission to share*
 
-#Currency conversion service without external python dependencies
+# Currency conversion service without external python dependencies
 
-##How to run:
+## How to run:
 
 1. Set service's address and port in settings.ini
 1.5. Optionally run tests.py to check if configuration is correct. It should pass the first test, then fail
